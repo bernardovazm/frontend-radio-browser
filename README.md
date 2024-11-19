@@ -34,13 +34,19 @@ O Radio Browser App é um projeto de front-end que consome uma API REST e permit
 - Editar os detalhes das suas estações favoritas.
 - Design responsivo para desktop e mobile.
 
-### Visualização
+### Pré-visualização
 
 <div>
     <img alt="Prévia do website" src=".github/desktop.png" width="65%">
-    <img alt="Prévia do website" src=".github/mobile.png" height="290px">
+    <img alt="Prévia do website" src=".github/mobile.png" width="26.2%">
 </div>
 
-### Agradecimentos
+### Próximos passos
 
-> Este é um desafio da [Coodesh](https://coodesh.com/)
+- [x] [Deploy na Vercel](https://frontend-radio-browser-pink.vercel.app/)
+- [ ] Testes com Jest
+- [ ] Dockerização
+
+### Referência
+
+> This is a challenge by [Coodesh](https://coodesh.com/)
